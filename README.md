@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Idriss
 ==============================================================================================================================
 
-Fullstack web developer
+Full-stack web developer
 -----------------------
 
 🚀 Computer Engineering student passionate about coding and continuous learning. 🌐 Excited about leveraging technology to solve real-world problems. Strong communication skills and a love for innovation. Let's connect and build something amazing together! 💻✨
