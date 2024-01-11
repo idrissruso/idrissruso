@@ -7,7 +7,7 @@ Fullstack web developer
 🚀 Computer Engineering student passionate about coding and continuous learning. 🌐 Excited about leveraging technology to solve real-world problems. Strong communication skills and a love for innovation. Let's connect and build something amazing together! 💻✨
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [idrissruso](http://gender.com)
+* 🖥️  See my portfolio at [idrissruso](http://aaaagender.com)
 * ✉️  You can contact me at [idrissruso@gmail.com](mailto:idrissruso@gmail.com)
 * 🚀  I'm currently working on [comfy](http://https://github.com/idrisruso/comfy)
 * 🧠  I'm learning nextJS
