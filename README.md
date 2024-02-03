@@ -10,8 +10,8 @@ Full-stack web developer
 * 🖥️  See my portfolio at [idrissruso](http://aaaagender.com)
 * ✉️  You can contact me at [idrissruso@gmail.com](mailto:idrissruso@gmail.com)
 * 🚀  I'm currently working on [comfy](http://https://github.com/idrisruso/comfy)
-* 🧠  I'm learning nextJS
-* 🤝  I'm open to collaborating on any react or py projects
+* 🧠  I'm learning nextJS&Typescript
+* 🤝  I'm open to collaborating on any react or py project
 * ⚡  I am a good singer and also a talented football player 😉
 
 <a href="https://www.github.com/idrissruso" target="_blank" rel="noreferrer"><img
