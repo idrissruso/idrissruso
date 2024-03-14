@@ -10,7 +10,7 @@ Fullstack web developer
 * 🖥️  See my portfolio at [idrissruso](http://gender.com)
 * ✉️  You can contact me at [idrissruso@gmail.com](mailto:idrissruso@gmail.com)
 * 🚀  I'm currently working on [comfy](http://https://github.com/idrissruso/comfy)
-* 🧠  I'm learning NextJS&Typescript
+* 🧠  I'm learning .Net Web Apis
 * 🤝  I'm open to collaborating on any react&py project
 * ⚡  I am a good singer and also a talented football player 😉
 
